@@ -1,3 +1,4 @@
+![system diagram - kraftedx](https://github.com/user-attachments/assets/a58af252-4ec0-4d27-b137-364eedf29c38)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
